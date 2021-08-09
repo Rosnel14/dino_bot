@@ -1,4 +1,4 @@
-# Girlfriend/Boyfriend Text
+# Dino_bot (forked)
 Send text to girlfriend/boyfriend (or really anyone with a phone number) in the morning
 
 ## 1. Configure your settings in `utils.py`.
@@ -28,3 +28,5 @@ Note: If you want run in background
 python3 main.py > pid.txt 2>&1 & 
 ```
 *Jobs can be accessed with the `jobs` command. jobs will show you the running jobs, and number them. You could then talk about the jobs using a `%` followed by the number like `kill %1` or so.*
+
+## 4. Confgure robo-calls 
